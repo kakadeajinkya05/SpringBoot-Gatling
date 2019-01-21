@@ -1,0 +1,1 @@
+run gradlew to run default tasks(clean, gatlingRun)
